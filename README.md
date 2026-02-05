@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Shehwaz Saini👋
 
-<!--
-**Shehwaz81/Shehwaz81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software and learn by breaking systems and rebuilding them to understand them better.
 
-Here are some ideas to get you started:
+## What I’m working on
+- 🧠 **AI & systems**
+  - Internship at Alti, building *Alti Guard*, an AI observability system
+  - Focus on monitoring, reliability, and understanding model behavior in production
+- ⚙️ **Competitive programming**
+  - Algorithms, data structures, and problem solving
+  - Training clarity, speed, and rigor
+- 🚀 **Hackathon Organizer**
+  - Organizing a Hack Club–affiliated hackathon in Windsor, Ontario
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+- Strong fundamentals (CS, math, systems thinking)
+- Understanding how AI systems behave *after* deployment
+
+## Tools & interests
+- Languages: C/C++, Python, JavaScript, SQL
+- Interests: AI systems and infra, algorithms, simulations
+
+## Contact
+- shehwaz.longia@gmail.com

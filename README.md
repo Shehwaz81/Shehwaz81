@@ -15,11 +15,11 @@ I build software and learn by breaking systems and rebuilding them to understand
 
 ## What I care about
 - Strong fundamentals (CS, math, systems thinking)
-- Understanding how AI systems behave *after* deployment
+- Understanding how AI systems behave before, after, and during deployment
 
 ## Tools & interests
 - Languages: C/C++, Python, JavaScript, SQL
-- Interests: AI systems and infra, algorithms, simulations
+- Interests: AI systems and infra, algorithms, simulations, and webapps
 
 ## Contact
 - shehwaz.longia@gmail.com

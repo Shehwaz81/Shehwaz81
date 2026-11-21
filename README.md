@@ -49,4 +49,4 @@ Translates ASL into text with AI models. Built with a friend.
 
 The cube at the top is a real 20-move scramble being solved in 9 seconds, which is my 3×3 time.
 
-Reach me at shehwaz.longia@gmail.com or [shehwazsaini.com](https://www.shehwazsaini.com).
+Reach me at shehwaz.dev@gmail.com.

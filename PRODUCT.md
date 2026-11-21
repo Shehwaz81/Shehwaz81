@@ -50,7 +50,7 @@ Open: the hero line "I build software people use" is a draft he has seen but not
 
 ## Brand Commitments
 
-- Name: Shehwaz Saini. Handle: Shehwaz81. Links: lemmaprep.ca, shehwazsaini.com.
+- Name: Shehwaz Saini. Handle: Shehwaz81. Links: lemmaprep.ca. Contact: shehwaz.dev@gmail.com.
 - First person, plain statements.
 - His stated preference for design work done for him: unique, human, non-generic.
 
